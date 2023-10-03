@@ -3,6 +3,6 @@ instalación componentes
 Hola
 df
 
-Cambio 4
+Cambio 
 
 wfds
